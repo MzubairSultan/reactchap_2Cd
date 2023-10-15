@@ -1,0 +1,9 @@
+.imge{
+    width: 100px;
+    height: 100px;
+}
+.viewsplusTime{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
